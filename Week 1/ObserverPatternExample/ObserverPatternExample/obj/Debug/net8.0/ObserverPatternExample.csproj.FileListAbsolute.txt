@@ -1,0 +1,14 @@
+D:\DN4.0\ObserverPatternExample\ObserverPatternExample\bin\Debug\net8.0\ObserverPatternExample.exe
+D:\DN4.0\ObserverPatternExample\ObserverPatternExample\bin\Debug\net8.0\ObserverPatternExample.deps.json
+D:\DN4.0\ObserverPatternExample\ObserverPatternExample\bin\Debug\net8.0\ObserverPatternExample.runtimeconfig.json
+D:\DN4.0\ObserverPatternExample\ObserverPatternExample\bin\Debug\net8.0\ObserverPatternExample.dll
+D:\DN4.0\ObserverPatternExample\ObserverPatternExample\bin\Debug\net8.0\ObserverPatternExample.pdb
+D:\DN4.0\ObserverPatternExample\ObserverPatternExample\obj\Debug\net8.0\ObserverPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DN4.0\ObserverPatternExample\ObserverPatternExample\obj\Debug\net8.0\ObserverPatternExample.AssemblyInfoInputs.cache
+D:\DN4.0\ObserverPatternExample\ObserverPatternExample\obj\Debug\net8.0\ObserverPatternExample.AssemblyInfo.cs
+D:\DN4.0\ObserverPatternExample\ObserverPatternExample\obj\Debug\net8.0\ObserverPatternExample.csproj.CoreCompileInputs.cache
+D:\DN4.0\ObserverPatternExample\ObserverPatternExample\obj\Debug\net8.0\ObserverPatternExample.dll
+D:\DN4.0\ObserverPatternExample\ObserverPatternExample\obj\Debug\net8.0\refint\ObserverPatternExample.dll
+D:\DN4.0\ObserverPatternExample\ObserverPatternExample\obj\Debug\net8.0\ObserverPatternExample.pdb
+D:\DN4.0\ObserverPatternExample\ObserverPatternExample\obj\Debug\net8.0\ObserverPatternExample.genruntimeconfig.cache
+D:\DN4.0\ObserverPatternExample\ObserverPatternExample\obj\Debug\net8.0\ref\ObserverPatternExample.dll

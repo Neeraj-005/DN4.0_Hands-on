@@ -1,0 +1,14 @@
+D:\DN4.0\SIngletonPatternExample\SIngletonPatternExample\bin\Debug\net8.0\SIngletonPatternExample.exe
+D:\DN4.0\SIngletonPatternExample\SIngletonPatternExample\bin\Debug\net8.0\SIngletonPatternExample.deps.json
+D:\DN4.0\SIngletonPatternExample\SIngletonPatternExample\bin\Debug\net8.0\SIngletonPatternExample.runtimeconfig.json
+D:\DN4.0\SIngletonPatternExample\SIngletonPatternExample\bin\Debug\net8.0\SIngletonPatternExample.dll
+D:\DN4.0\SIngletonPatternExample\SIngletonPatternExample\bin\Debug\net8.0\SIngletonPatternExample.pdb
+D:\DN4.0\SIngletonPatternExample\SIngletonPatternExample\obj\Debug\net8.0\SIngletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DN4.0\SIngletonPatternExample\SIngletonPatternExample\obj\Debug\net8.0\SIngletonPatternExample.AssemblyInfoInputs.cache
+D:\DN4.0\SIngletonPatternExample\SIngletonPatternExample\obj\Debug\net8.0\SIngletonPatternExample.AssemblyInfo.cs
+D:\DN4.0\SIngletonPatternExample\SIngletonPatternExample\obj\Debug\net8.0\SIngletonPatternExample.csproj.CoreCompileInputs.cache
+D:\DN4.0\SIngletonPatternExample\SIngletonPatternExample\obj\Debug\net8.0\SIngletonPatternExample.dll
+D:\DN4.0\SIngletonPatternExample\SIngletonPatternExample\obj\Debug\net8.0\refint\SIngletonPatternExample.dll
+D:\DN4.0\SIngletonPatternExample\SIngletonPatternExample\obj\Debug\net8.0\SIngletonPatternExample.pdb
+D:\DN4.0\SIngletonPatternExample\SIngletonPatternExample\obj\Debug\net8.0\SIngletonPatternExample.genruntimeconfig.cache
+D:\DN4.0\SIngletonPatternExample\SIngletonPatternExample\obj\Debug\net8.0\ref\SIngletonPatternExample.dll

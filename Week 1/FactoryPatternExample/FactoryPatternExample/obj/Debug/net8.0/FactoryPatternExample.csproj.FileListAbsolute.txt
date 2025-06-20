@@ -1,0 +1,14 @@
+D:\DN4.0\FactoryPatternExample\FactoryPatternExample\bin\Debug\net8.0\FactoryPatternExample.exe
+D:\DN4.0\FactoryPatternExample\FactoryPatternExample\bin\Debug\net8.0\FactoryPatternExample.deps.json
+D:\DN4.0\FactoryPatternExample\FactoryPatternExample\bin\Debug\net8.0\FactoryPatternExample.runtimeconfig.json
+D:\DN4.0\FactoryPatternExample\FactoryPatternExample\bin\Debug\net8.0\FactoryPatternExample.dll
+D:\DN4.0\FactoryPatternExample\FactoryPatternExample\bin\Debug\net8.0\FactoryPatternExample.pdb
+D:\DN4.0\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\FactoryPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DN4.0\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\FactoryPatternExample.AssemblyInfoInputs.cache
+D:\DN4.0\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\FactoryPatternExample.AssemblyInfo.cs
+D:\DN4.0\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\FactoryPatternExample.csproj.CoreCompileInputs.cache
+D:\DN4.0\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\FactoryPatternExample.dll
+D:\DN4.0\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\refint\FactoryPatternExample.dll
+D:\DN4.0\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\FactoryPatternExample.pdb
+D:\DN4.0\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\FactoryPatternExample.genruntimeconfig.cache
+D:\DN4.0\FactoryPatternExample\FactoryPatternExample\obj\Debug\net8.0\ref\FactoryPatternExample.dll
