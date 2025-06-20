@@ -1,0 +1,14 @@
+D:\DN4.0\ProxyPatternExample\ProxyPatternExample\obj\Debug\net8.0\ProxyPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DN4.0\ProxyPatternExample\ProxyPatternExample\obj\Debug\net8.0\ProxyPatternExample.AssemblyInfoInputs.cache
+D:\DN4.0\ProxyPatternExample\ProxyPatternExample\obj\Debug\net8.0\ProxyPatternExample.AssemblyInfo.cs
+D:\DN4.0\ProxyPatternExample\ProxyPatternExample\obj\Debug\net8.0\ProxyPatternExample.csproj.CoreCompileInputs.cache
+D:\DN4.0\ProxyPatternExample\ProxyPatternExample\bin\Debug\net8.0\ProxyPatternExample.exe
+D:\DN4.0\ProxyPatternExample\ProxyPatternExample\bin\Debug\net8.0\ProxyPatternExample.deps.json
+D:\DN4.0\ProxyPatternExample\ProxyPatternExample\bin\Debug\net8.0\ProxyPatternExample.runtimeconfig.json
+D:\DN4.0\ProxyPatternExample\ProxyPatternExample\bin\Debug\net8.0\ProxyPatternExample.dll
+D:\DN4.0\ProxyPatternExample\ProxyPatternExample\bin\Debug\net8.0\ProxyPatternExample.pdb
+D:\DN4.0\ProxyPatternExample\ProxyPatternExample\obj\Debug\net8.0\ProxyPatternExample.dll
+D:\DN4.0\ProxyPatternExample\ProxyPatternExample\obj\Debug\net8.0\refint\ProxyPatternExample.dll
+D:\DN4.0\ProxyPatternExample\ProxyPatternExample\obj\Debug\net8.0\ProxyPatternExample.pdb
+D:\DN4.0\ProxyPatternExample\ProxyPatternExample\obj\Debug\net8.0\ProxyPatternExample.genruntimeconfig.cache
+D:\DN4.0\ProxyPatternExample\ProxyPatternExample\obj\Debug\net8.0\ref\ProxyPatternExample.dll

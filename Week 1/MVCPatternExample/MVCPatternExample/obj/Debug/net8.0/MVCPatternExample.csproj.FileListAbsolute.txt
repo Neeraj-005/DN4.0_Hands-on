@@ -1,0 +1,14 @@
+D:\DN4.0\MVCPatternExample\MVCPatternExample\obj\Debug\net8.0\MVCPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DN4.0\MVCPatternExample\MVCPatternExample\obj\Debug\net8.0\MVCPatternExample.AssemblyInfoInputs.cache
+D:\DN4.0\MVCPatternExample\MVCPatternExample\obj\Debug\net8.0\MVCPatternExample.AssemblyInfo.cs
+D:\DN4.0\MVCPatternExample\MVCPatternExample\obj\Debug\net8.0\MVCPatternExample.csproj.CoreCompileInputs.cache
+D:\DN4.0\MVCPatternExample\MVCPatternExample\bin\Debug\net8.0\MVCPatternExample.exe
+D:\DN4.0\MVCPatternExample\MVCPatternExample\bin\Debug\net8.0\MVCPatternExample.deps.json
+D:\DN4.0\MVCPatternExample\MVCPatternExample\bin\Debug\net8.0\MVCPatternExample.runtimeconfig.json
+D:\DN4.0\MVCPatternExample\MVCPatternExample\bin\Debug\net8.0\MVCPatternExample.dll
+D:\DN4.0\MVCPatternExample\MVCPatternExample\bin\Debug\net8.0\MVCPatternExample.pdb
+D:\DN4.0\MVCPatternExample\MVCPatternExample\obj\Debug\net8.0\MVCPatternExample.dll
+D:\DN4.0\MVCPatternExample\MVCPatternExample\obj\Debug\net8.0\refint\MVCPatternExample.dll
+D:\DN4.0\MVCPatternExample\MVCPatternExample\obj\Debug\net8.0\MVCPatternExample.pdb
+D:\DN4.0\MVCPatternExample\MVCPatternExample\obj\Debug\net8.0\MVCPatternExample.genruntimeconfig.cache
+D:\DN4.0\MVCPatternExample\MVCPatternExample\obj\Debug\net8.0\ref\MVCPatternExample.dll

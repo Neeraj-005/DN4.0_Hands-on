@@ -1,0 +1,14 @@
+D:\DN4.0\CommandPatternExample\CommandPatternExample\bin\Debug\net8.0\CommandPatternExample.exe
+D:\DN4.0\CommandPatternExample\CommandPatternExample\bin\Debug\net8.0\CommandPatternExample.deps.json
+D:\DN4.0\CommandPatternExample\CommandPatternExample\bin\Debug\net8.0\CommandPatternExample.runtimeconfig.json
+D:\DN4.0\CommandPatternExample\CommandPatternExample\bin\Debug\net8.0\CommandPatternExample.dll
+D:\DN4.0\CommandPatternExample\CommandPatternExample\bin\Debug\net8.0\CommandPatternExample.pdb
+D:\DN4.0\CommandPatternExample\CommandPatternExample\obj\Debug\net8.0\CommandPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DN4.0\CommandPatternExample\CommandPatternExample\obj\Debug\net8.0\CommandPatternExample.AssemblyInfoInputs.cache
+D:\DN4.0\CommandPatternExample\CommandPatternExample\obj\Debug\net8.0\CommandPatternExample.AssemblyInfo.cs
+D:\DN4.0\CommandPatternExample\CommandPatternExample\obj\Debug\net8.0\CommandPatternExample.csproj.CoreCompileInputs.cache
+D:\DN4.0\CommandPatternExample\CommandPatternExample\obj\Debug\net8.0\CommandPatternExample.dll
+D:\DN4.0\CommandPatternExample\CommandPatternExample\obj\Debug\net8.0\refint\CommandPatternExample.dll
+D:\DN4.0\CommandPatternExample\CommandPatternExample\obj\Debug\net8.0\CommandPatternExample.pdb
+D:\DN4.0\CommandPatternExample\CommandPatternExample\obj\Debug\net8.0\CommandPatternExample.genruntimeconfig.cache
+D:\DN4.0\CommandPatternExample\CommandPatternExample\obj\Debug\net8.0\ref\CommandPatternExample.dll
