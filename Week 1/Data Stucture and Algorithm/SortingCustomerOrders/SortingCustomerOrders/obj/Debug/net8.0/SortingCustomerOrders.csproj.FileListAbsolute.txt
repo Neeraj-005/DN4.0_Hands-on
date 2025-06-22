@@ -1,0 +1,14 @@
+D:\DN4.0\SortingCustomerOrders\SortingCustomerOrders\bin\Debug\net8.0\SortingCustomerOrders.exe
+D:\DN4.0\SortingCustomerOrders\SortingCustomerOrders\bin\Debug\net8.0\SortingCustomerOrders.deps.json
+D:\DN4.0\SortingCustomerOrders\SortingCustomerOrders\bin\Debug\net8.0\SortingCustomerOrders.runtimeconfig.json
+D:\DN4.0\SortingCustomerOrders\SortingCustomerOrders\bin\Debug\net8.0\SortingCustomerOrders.dll
+D:\DN4.0\SortingCustomerOrders\SortingCustomerOrders\bin\Debug\net8.0\SortingCustomerOrders.pdb
+D:\DN4.0\SortingCustomerOrders\SortingCustomerOrders\obj\Debug\net8.0\SortingCustomerOrders.GeneratedMSBuildEditorConfig.editorconfig
+D:\DN4.0\SortingCustomerOrders\SortingCustomerOrders\obj\Debug\net8.0\SortingCustomerOrders.AssemblyInfoInputs.cache
+D:\DN4.0\SortingCustomerOrders\SortingCustomerOrders\obj\Debug\net8.0\SortingCustomerOrders.AssemblyInfo.cs
+D:\DN4.0\SortingCustomerOrders\SortingCustomerOrders\obj\Debug\net8.0\SortingCustomerOrders.csproj.CoreCompileInputs.cache
+D:\DN4.0\SortingCustomerOrders\SortingCustomerOrders\obj\Debug\net8.0\SortingCustomerOrders.dll
+D:\DN4.0\SortingCustomerOrders\SortingCustomerOrders\obj\Debug\net8.0\refint\SortingCustomerOrders.dll
+D:\DN4.0\SortingCustomerOrders\SortingCustomerOrders\obj\Debug\net8.0\SortingCustomerOrders.pdb
+D:\DN4.0\SortingCustomerOrders\SortingCustomerOrders\obj\Debug\net8.0\SortingCustomerOrders.genruntimeconfig.cache
+D:\DN4.0\SortingCustomerOrders\SortingCustomerOrders\obj\Debug\net8.0\ref\SortingCustomerOrders.dll

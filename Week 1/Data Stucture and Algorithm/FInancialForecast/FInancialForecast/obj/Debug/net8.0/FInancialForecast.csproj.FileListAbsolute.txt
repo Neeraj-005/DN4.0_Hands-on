@@ -1,0 +1,14 @@
+D:\DN4.0\FInancialForecast\FInancialForecast\bin\Debug\net8.0\FInancialForecast.exe
+D:\DN4.0\FInancialForecast\FInancialForecast\bin\Debug\net8.0\FInancialForecast.deps.json
+D:\DN4.0\FInancialForecast\FInancialForecast\bin\Debug\net8.0\FInancialForecast.runtimeconfig.json
+D:\DN4.0\FInancialForecast\FInancialForecast\bin\Debug\net8.0\FInancialForecast.dll
+D:\DN4.0\FInancialForecast\FInancialForecast\bin\Debug\net8.0\FInancialForecast.pdb
+D:\DN4.0\FInancialForecast\FInancialForecast\obj\Debug\net8.0\FInancialForecast.GeneratedMSBuildEditorConfig.editorconfig
+D:\DN4.0\FInancialForecast\FInancialForecast\obj\Debug\net8.0\FInancialForecast.AssemblyInfoInputs.cache
+D:\DN4.0\FInancialForecast\FInancialForecast\obj\Debug\net8.0\FInancialForecast.AssemblyInfo.cs
+D:\DN4.0\FInancialForecast\FInancialForecast\obj\Debug\net8.0\FInancialForecast.csproj.CoreCompileInputs.cache
+D:\DN4.0\FInancialForecast\FInancialForecast\obj\Debug\net8.0\FInancialForecast.dll
+D:\DN4.0\FInancialForecast\FInancialForecast\obj\Debug\net8.0\refint\FInancialForecast.dll
+D:\DN4.0\FInancialForecast\FInancialForecast\obj\Debug\net8.0\FInancialForecast.pdb
+D:\DN4.0\FInancialForecast\FInancialForecast\obj\Debug\net8.0\FInancialForecast.genruntimeconfig.cache
+D:\DN4.0\FInancialForecast\FInancialForecast\obj\Debug\net8.0\ref\FInancialForecast.dll

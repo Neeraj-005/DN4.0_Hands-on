@@ -1,0 +1,14 @@
+D:\DN4.0\EcommeracePlatformSearch\EcommeracePlatformSearch\bin\Debug\net8.0\EcommeracePlatformSearch.exe
+D:\DN4.0\EcommeracePlatformSearch\EcommeracePlatformSearch\bin\Debug\net8.0\EcommeracePlatformSearch.deps.json
+D:\DN4.0\EcommeracePlatformSearch\EcommeracePlatformSearch\bin\Debug\net8.0\EcommeracePlatformSearch.runtimeconfig.json
+D:\DN4.0\EcommeracePlatformSearch\EcommeracePlatformSearch\bin\Debug\net8.0\EcommeracePlatformSearch.dll
+D:\DN4.0\EcommeracePlatformSearch\EcommeracePlatformSearch\bin\Debug\net8.0\EcommeracePlatformSearch.pdb
+D:\DN4.0\EcommeracePlatformSearch\EcommeracePlatformSearch\obj\Debug\net8.0\EcommeracePlatformSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\DN4.0\EcommeracePlatformSearch\EcommeracePlatformSearch\obj\Debug\net8.0\EcommeracePlatformSearch.AssemblyInfoInputs.cache
+D:\DN4.0\EcommeracePlatformSearch\EcommeracePlatformSearch\obj\Debug\net8.0\EcommeracePlatformSearch.AssemblyInfo.cs
+D:\DN4.0\EcommeracePlatformSearch\EcommeracePlatformSearch\obj\Debug\net8.0\EcommeracePlatformSearch.csproj.CoreCompileInputs.cache
+D:\DN4.0\EcommeracePlatformSearch\EcommeracePlatformSearch\obj\Debug\net8.0\EcommeracePlatformSearch.dll
+D:\DN4.0\EcommeracePlatformSearch\EcommeracePlatformSearch\obj\Debug\net8.0\refint\EcommeracePlatformSearch.dll
+D:\DN4.0\EcommeracePlatformSearch\EcommeracePlatformSearch\obj\Debug\net8.0\EcommeracePlatformSearch.pdb
+D:\DN4.0\EcommeracePlatformSearch\EcommeracePlatformSearch\obj\Debug\net8.0\EcommeracePlatformSearch.genruntimeconfig.cache
+D:\DN4.0\EcommeracePlatformSearch\EcommeracePlatformSearch\obj\Debug\net8.0\ref\EcommeracePlatformSearch.dll

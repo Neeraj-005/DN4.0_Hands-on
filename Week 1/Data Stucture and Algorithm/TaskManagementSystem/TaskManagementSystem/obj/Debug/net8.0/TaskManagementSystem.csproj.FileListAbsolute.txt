@@ -1,0 +1,14 @@
+D:\DN4.0\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\DN4.0\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.AssemblyInfoInputs.cache
+D:\DN4.0\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.AssemblyInfo.cs
+D:\DN4.0\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.csproj.CoreCompileInputs.cache
+D:\DN4.0\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.exe
+D:\DN4.0\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.deps.json
+D:\DN4.0\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.runtimeconfig.json
+D:\DN4.0\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.dll
+D:\DN4.0\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.pdb
+D:\DN4.0\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.dll
+D:\DN4.0\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\refint\TaskManagementSystem.dll
+D:\DN4.0\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.pdb
+D:\DN4.0\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.genruntimeconfig.cache
+D:\DN4.0\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\ref\TaskManagementSystem.dll
