@@ -1,0 +1,12 @@
+D:\DN4.0\PlayersManagerApp\PlayersManagerApp\bin\Debug\net8.0\PlayersManagerApp.deps.json
+D:\DN4.0\PlayersManagerApp\PlayersManagerApp\bin\Debug\net8.0\PlayersManagerApp.dll
+D:\DN4.0\PlayersManagerApp\PlayersManagerApp\bin\Debug\net8.0\PlayersManagerApp.pdb
+D:\DN4.0\PlayersManagerApp\PlayersManagerApp\obj\Debug\net8.0\PlayersManagerApp.csproj.AssemblyReference.cache
+D:\DN4.0\PlayersManagerApp\PlayersManagerApp\obj\Debug\net8.0\PlayersManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DN4.0\PlayersManagerApp\PlayersManagerApp\obj\Debug\net8.0\PlayersManagerApp.AssemblyInfoInputs.cache
+D:\DN4.0\PlayersManagerApp\PlayersManagerApp\obj\Debug\net8.0\PlayersManagerApp.AssemblyInfo.cs
+D:\DN4.0\PlayersManagerApp\PlayersManagerApp\obj\Debug\net8.0\PlayersManagerApp.csproj.CoreCompileInputs.cache
+D:\DN4.0\PlayersManagerApp\PlayersManagerApp\obj\Debug\net8.0\PlayersManagerApp.dll
+D:\DN4.0\PlayersManagerApp\PlayersManagerApp\obj\Debug\net8.0\refint\PlayersManagerApp.dll
+D:\DN4.0\PlayersManagerApp\PlayersManagerApp\obj\Debug\net8.0\PlayersManagerApp.pdb
+D:\DN4.0\PlayersManagerApp\PlayersManagerApp\obj\Debug\net8.0\ref\PlayersManagerApp.dll

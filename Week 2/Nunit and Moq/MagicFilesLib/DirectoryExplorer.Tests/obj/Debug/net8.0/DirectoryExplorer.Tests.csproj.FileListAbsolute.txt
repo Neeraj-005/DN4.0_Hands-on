@@ -1,0 +1,5 @@
+D:\DN4.0\MagicFilesLib\DirectoryExplorer.Tests\obj\Debug\net8.0\DirectoryExplorer.Tests.csproj.AssemblyReference.cache
+D:\DN4.0\MagicFilesLib\DirectoryExplorer.Tests\obj\Debug\net8.0\DirectoryExplorer.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\DN4.0\MagicFilesLib\DirectoryExplorer.Tests\obj\Debug\net8.0\DirectoryExplorer.Tests.AssemblyInfoInputs.cache
+D:\DN4.0\MagicFilesLib\DirectoryExplorer.Tests\obj\Debug\net8.0\DirectoryExplorer.Tests.AssemblyInfo.cs
+D:\DN4.0\MagicFilesLib\DirectoryExplorer.Tests\obj\Debug\net8.0\DirectoryExplorer.Tests.csproj.CoreCompileInputs.cache
