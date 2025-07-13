@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DN4.0\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8FE79-C08B-4B00-BEEA-2756137C4958}|WebApplication1\\WebApplication1.csproj|d:\\dn4.0\\webapplication1\\webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E8FE79-C08B-4B00-BEEA-2756137C4958}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8FE79-C08B-4B00-BEEA-2756137C4958}|WebApplication1\\WebApplication1.csproj|d:\\dn4.0\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E8FE79-C08B-4B00-BEEA-2756137C4958}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8FE79-C08B-4B00-BEEA-2756137C4958}|WebApplication1\\WebApplication1.csproj|d:\\dn4.0\\webapplication1\\webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E8FE79-C08B-4B00-BEEA-2756137C4958}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8FE79-C08B-4B00-BEEA-2756137C4958}|WebApplication1\\WebApplication1.csproj|d:\\dn4.0\\webapplication1\\webapplication1\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E8FE79-C08B-4B00-BEEA-2756137C4958}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8FE79-C08B-4B00-BEEA-2756137C4958}|WebApplication1\\WebApplication1.csproj|d:\\dn4.0\\webapplication1\\webapplication1\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E8FE79-C08B-4B00-BEEA-2756137C4958}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8FE79-C08B-4B00-BEEA-2756137C4958}|WebApplication1\\WebApplication1.csproj|d:\\dn4.0\\webapplication1\\webapplication1\\exception_log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A7E8FE79-C08B-4B00-BEEA-2756137C4958}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\exception_log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8FE79-C08B-4B00-BEEA-2756137C4958}|WebApplication1\\WebApplication1.csproj|d:\\dn4.0\\webapplication1\\webapplication1\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E8FE79-C08B-4B00-BEEA-2756137C4958}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\DN4.0\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\DN4.0\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:29:27.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "D:\\DN4.0\\WebApplication1\\WebApplication1\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "D:\\DN4.0\\WebApplication1\\WebApplication1\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "WebApplication1\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T10:59:59.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "D:\\DN4.0\\WebApplication1\\WebApplication1\\Filters\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Filters\\CustomAuthFilter.cs",
+              "ToolTip": "D:\\DN4.0\\WebApplication1\\WebApplication1\\Filters\\CustomAuthFilter.cs",
+              "RelativeToolTip": "WebApplication1\\Filters\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T10:47:46.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\DN4.0\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\DN4.0\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T04:17:37.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DN4.0\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\DN4.0\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T01:57:00.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "exception_log.txt",
+              "DocumentMoniker": "D:\\DN4.0\\WebApplication1\\WebApplication1\\exception_log.txt",
+              "RelativeDocumentMoniker": "WebApplication1\\exception_log.txt",
+              "ToolTip": "D:\\DN4.0\\WebApplication1\\WebApplication1\\exception_log.txt",
+              "RelativeToolTip": "WebApplication1\\exception_log.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-13T11:08:41.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\DN4.0\\WebApplication1\\WebApplication1\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\DN4.0\\WebApplication1\\WebApplication1\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:57:54.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
